@@ -34,7 +34,7 @@ Found YouTube link(s):
 https://www.youtube.com/watch?v=XXXXXXXXXXX
 ```
 ## Paste this script:
-```text
+```javascript
 (() => {
   const results = new Set();
 
