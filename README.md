@@ -31,6 +31,7 @@ youtube-embed-link-extractor/
 │   └── extract-youtube-link.js
 └── docs/
     └── usage.md
+```text
 
 ## How to Use:
 1. Open the webpage containing the embedded video.
