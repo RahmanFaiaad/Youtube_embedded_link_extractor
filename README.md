@@ -32,7 +32,7 @@ youtube-embed-link-extractor/
 └── docs/
     └── usage.md
 
-How to Use:
+## How to Use:
 1. Open the webpage containing the embedded video.
 2. Open Developer Tools in your browser.
 3. Go to the Console tab.
